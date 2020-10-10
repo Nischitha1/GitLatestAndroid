@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlbumList</string>
+    <string name="enter_detail">Enter Artist</string>
+    <string name="enter">Show Records</string>
+</resources>
