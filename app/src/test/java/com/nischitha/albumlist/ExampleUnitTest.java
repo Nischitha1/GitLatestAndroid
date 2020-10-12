@@ -1,4 +1,4 @@
-package com.nischitha.dagger2retrofitrecyclerview;
+package com.nischitha.albumlist;
 
 import org.junit.Test;
 
